@@ -1,0 +1,23 @@
+   {
+    "name": "Mirayns",
+    "short_name": "Mirayns",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRYJRXZEikam7Zrgm4oOtzHyDw7geEoK6Jjsm1LwtRMLJaRKweZduYevp1pPKPdzBZF6PIJ6o5Wa5AtrWiE4pwyJ18HsYaapoe2dI-WGQofhLoYj3_lVatl0-85XRfmwEU-8cpmK2uTbq9Nap63JF_6cynUlMWyvWF7ET4zYI0wLN5_U745xWmF7odwAX5/s16000/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzyzfRUUbI-EOfGxDDeARN6sZ5k7AIjBfWAoSPwOUkCqQMguVuu71X2zo6kcmDHESnLtoWbnP64S04rjelbKiqngLCxJuOMIUcBJeXZ2Twh8lsfvYQPrdQw1qbhulDXPDcuMh0sGpsIsc-KU4qINPRCp3HWpmwSu-3l3XYp9h7FFajMrYS5xyJV8u97kGj/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.mirayns.com"
+}
